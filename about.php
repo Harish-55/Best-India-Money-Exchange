@@ -68,7 +68,7 @@
                 <div class="header-bottom">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index.html">
+                            <a class="navbar-brand" href="index.php">
                                 <img class="logo-light"
                                     src="assets/img/logo.png" alt="logo"
                                     style="width: 200px;">
@@ -85,16 +85,16 @@
                                 <ul class="navbar-nav ms-auto">
 
                                     <li class="nav-item">
-                                        <a href="index.html" class="nav-link">Home</a>
+                                        <a href="index.php" class="nav-link">Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="about.html" class="nav-link">About</a>
+                                        <a href="about.php" class="nav-link">About</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="currency.html" class="nav-link">Currency</a>
+                                        <a href="currency.php" class="nav-link">Currency</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="contact.html" class="nav-link">Contact
+                                        <a href="contact.php" class="nav-link">Contact
                                             Us</a>
                                     </li>
                                     <li>
@@ -146,10 +146,10 @@
         <div class="header-top-right">
         <ul class="user-menu list-style">
         <li>
-        <a href="contact.html">Support</a>
+        <a href="contact.php">Support</a>
         </li>
         <li>
-        <a href="contact.html">Help</a>
+        <a href="contact.php">Help</a>
         </li>
         </ul>
         <div class="select-lang">
@@ -182,7 +182,7 @@
         <div class="header-bottom">
         <div class="container">
         <nav class="navbar navbar-expand-md navbar-light">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
         <img class="logo-light" src="assets/img/logo.png" alt="logo">
         <img class="logo-dark" src="assets/img/logo-white.png" alt="logo">
         </a>
@@ -198,30 +198,30 @@
         </a>
         <ul class="dropdown-menu">
         <li class="nav-item">
-        <a href="index-2.html" class="nav-link">Home Two</a>
+        <a href="index-2.php" class="nav-link">Home Two</a>
         </li>
         </ul>
         </li>
         <li class="nav-item">
-        <a href="about.html" class="nav-link">
+        <a href="about.php" class="nav-link">
         About
         <i class="ri-arrow-down-s-line"></i>
         </a>
         <ul class="dropdown-menu">
         <li class="nav-item">
-        <a href="about.html" class="nav-link">About Us</a>
+        <a href="about.php" class="nav-link">About Us</a>
         </li>
         </ul>
         </li>
         <li class="nav-item">
-        <a href="contact.html" class="nav-link">Contact Us</a>
+        <a href="contact.php" class="nav-link">Contact Us</a>
         </li>
         <li class="nav-item d-lg-none">
-        <a href="app.html" class="nav-link btn style1">CHAT WITH US<i class="ri-arrow-right-s-line"></i></a>
+        <a href="app.php" class="nav-link btn style1">CHAT WITH US<i class="ri-arrow-right-s-line"></i></a>
         </li>
         </ul>
         <div class="option-item">
-        <a href="app.html" class="btn style1">CHAT WITH US<i class="ri-arrow-right-s-line"></i></a>
+        <a href="app.php" class="btn style1">CHAT WITH US<i class="ri-arrow-right-s-line"></i></a>
         </div>
         </div>
         </div>
@@ -230,8 +230,8 @@
         <div class="user-login d-lg-none">
         <span><i class="ri-user-add-line"></i></span>
         <ul class="list-style">
-        <li><a href="login.html">Sign In</a></li>
-        <li><a href="register.html">Sign Up</a></li>
+        <li><a href="login.php">Sign In</a></li>
+        <li><a href="register.php">Sign Up</a></li>
         </ul>
         </div>
         <div class="mobile-menu d-lg-none">
@@ -267,10 +267,10 @@
 <div class="header-top-right">
 <ul class="user-menu list-style">
 <li>
-<a href="contact.html">Support</a>
+<a href="contact.php">Support</a>
 </li>
 <li>
-<a href="contact.html">Help</a>
+<a href="contact.php">Help</a>
 </li>
 </ul>
 <div class="select-lang">
@@ -303,7 +303,7 @@ English
 <div class="header-bottom">
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img class="logo-light" src="assets/img/logo.png" alt="logo">
 <img class="logo-dark" src="assets/img/logo-white.png" alt="logo">
 </a>
@@ -319,24 +319,24 @@ Home
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="index.html" class="nav-link">Home One</a>
+<a href="index.php" class="nav-link">Home One</a>
 </li>
 <li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Two</a>
+<a href="index-2.php" class="nav-link">Home Two</a>
 </li>
 <li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Three</a>
+<a href="index-3.php" class="nav-link">Home Three</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="about.html" class="nav-link active">
+<a href="about.php" class="nav-link active">
 About
 <i class="ri-arrow-down-s-line"></i>
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="about.html" class="nav-link active">About Us</a>
+<a href="about.php" class="nav-link active">About Us</a>
 </li>
 </ul>
 </li>
@@ -347,16 +347,16 @@ Converter
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="converter.html" class="nav-link">Convert Currency</a>
+<a href="converter.php" class="nav-link">Convert Currency</a>
 </li>
 <li class="nav-item">
-<a href="chart.html" class="nav-link">Currency Chart</a>
+<a href="chart.php" class="nav-link">Currency Chart</a>
 </li>
 <li class="nav-item">
-<a href="send-money.html" class="nav-link">Send Money</a>
+<a href="send-money.php" class="nav-link">Send Money</a>
 </li>
 <li class="nav-item">
-<a href="alerts.html" class="nav-link">Exchange Rate Alert</a>
+<a href="alerts.php" class="nav-link">Exchange Rate Alert</a>
 </li>
 </ul>
 </li>
@@ -367,16 +367,16 @@ Pages
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="team.html" class="nav-link">Our Team</a>
+<a href="team.php" class="nav-link">Our Team</a>
 </li>
 <li class="nav-item">
-<a href="app.html" class="nav-link">Download App</a>
+<a href="app.php" class="nav-link">Download App</a>
 </li>
 <li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
+<a href="faq.php" class="nav-link">FAQ</a>
 </li>
 <li class="nav-item">
-<a href="testimonials.html" class="nav-link">Testimonials</a>
+<a href="testimonials.php" class="nav-link">Testimonials</a>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link">
@@ -385,24 +385,24 @@ User Pages
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="login.html" class="nav-link">Login</a>
+<a href="login.php" class="nav-link">Login</a>
 </li>
 <li class="nav-item">
-<a href="register.html" class="nav-link">Register</a>
+<a href="register.php" class="nav-link">Register</a>
 </li>
 <li class="nav-item">
-<a href="recover-password.html" class="nav-link">Recover Password</a>
+<a href="recover-password.php" class="nav-link">Recover Password</a>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="terms-of-service.html" class="nav-link">Terms of Service</a>
+<a href="terms-of-service.php" class="nav-link">Terms of Service</a>
 </li>
 <li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
 </li>
 <li class="nav-item">
-<a href="error-404.html" class="nav-link">404 Error Page</a>
+<a href="error-404.php" class="nav-link">404 Error Page</a>
 </li>
 </ul>
 </li>
@@ -419,13 +419,13 @@ Blog Layout
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog-no-sidebar.html" class="nav-link">Blog Grid</a>
+<a href="blog-no-sidebar.php" class="nav-link">Blog Grid</a>
 </li>
 <li class="nav-item">
-<a href="blog-left-sidebar.html" class="nav-link">Blog Left Sidebar</a>
+<a href="blog-left-sidebar.php" class="nav-link">Blog Left Sidebar</a>
 </li>
 <li class="nav-item">
-<a href="blog-right-sidebar.html" class="nav-link">Blog Right Sidebar</a>
+<a href="blog-right-sidebar.php" class="nav-link">Blog Right Sidebar</a>
 </li>
 </ul>
 </li>
@@ -436,23 +436,23 @@ Single Blog
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="blog-details-no-sidebar.html" class="nav-link">Blog Details No Sidebar</a>
+<a href="blog-details-no-sidebar.php" class="nav-link">Blog Details No Sidebar</a>
 </li>
 <li class="nav-item">
-<a href="blog-details-left-sidebar.html" class="nav-link">Blog Details Left Sidebar</a>
+<a href="blog-details-left-sidebar.php" class="nav-link">Blog Details Left Sidebar</a>
 </li>
 <li class="nav-item">
-<a href="blog-details-right-sidebar.html" class="nav-link">Blog Details Right Sidebar</a>
+<a href="blog-details-right-sidebar.php" class="nav-link">Blog Details Right Sidebar</a>
 </li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a href="contact.html" class="nav-link">Contact Us</a>
+<a href="contact.php" class="nav-link">Contact Us</a>
 </li>
 <li class="nav-item d-lg-none">
-<a href="app.html" class="nav-link btn style1">GET THE APP<i class="ri-arrow-right-s-line"></i></a>
+<a href="app.php" class="nav-link btn style1">GET THE APP<i class="ri-arrow-right-s-line"></i></a>
 </li>
 </ul>
 <div class="other-options md-none">
@@ -460,13 +460,13 @@ Single Blog
 <div class="user-login">
 <span><i class="ri-user-add-line"></i></span>
 <ul class="list-style">
-<li><a href="login.html">Sign In</a></li>
-<li><a href="register.html">Sign Up</a></li>
+<li><a href="login.php">Sign In</a></li>
+<li><a href="register.php">Sign Up</a></li>
 </ul>
 </div>
 </div>
 <div class="option-item">
-<a href="app.html" class="btn style1">GET THE APP<i class="ri-arrow-right-s-line"></i></a>
+<a href="app.php" class="btn style1">GET THE APP<i class="ri-arrow-right-s-line"></i></a>
 </div>
 </div>
 </div>
@@ -475,8 +475,8 @@ Single Blog
 <div class="user-login d-lg-none">
 <span><i class="ri-user-add-line"></i></span>
 <ul class="list-style">
-<li><a href="login.html">Sign In</a></li>
-<li><a href="register.html">Sign Up</a></li>
+<li><a href="login.php">Sign In</a></li>
+<li><a href="register.php">Sign Up</a></li>
 </ul>
 </div>
 <div class="mobile-menu d-lg-none">
@@ -493,7 +493,7 @@ Single Blog
                     <div class="breadcrumb-title">
                         <h2>About Us</h2>
                         <ul class="breadcrumb-menu list-style">
-                            <li><a href="index.html">Home </a></li>
+                            <li><a href="index.php">Home </a></li>
                             <li>About Us</li>
                         </ul>
                     </div>
@@ -609,7 +609,7 @@ Single Blog
                                 <div class="feature-icon">
                                     <i class="flaticon-hand"></i>
                                 </div>
-                                <h3><a href="send-money.html">Competitive Rates</a></h3>
+                                <h3><a href="send-money.php">Competitive Rates</a></h3>
                                 <p>Get more value with our favorable exchange
                                     rates.</p>
                             </div>
@@ -619,7 +619,7 @@ Single Blog
                                 <div class="feature-icon">
                                     <i class="flaticon-pie-chart"></i>
                                 </div>
-                                <h3><a href="chart.html">Security Assurance</a></h3>
+                                <h3><a href="chart.php">Security Assurance</a></h3>
                                 <p>Ensuring your funds and transactions are
                                     safeguarded.</p>
                             </div>
@@ -629,7 +629,7 @@ Single Blog
                                 <div class="feature-icon">
                                     <i class="flaticon-notification"></i>
                                 </div>
-                                <h3><a href="alerts.html">Expert Guidance</a></h3>
+                                <h3><a href="alerts.php">Expert Guidance</a></h3>
                                 <p>Trust our knowledgeable team for financial
                                     advice.</p>
                             </div>
@@ -639,7 +639,7 @@ Single Blog
                                 <div class="feature-icon">
                                     <i class="flaticon-user-3"></i>
                                 </div>
-                                <h3><a href="register.html">Hassle-Free Process</a></h3>
+                                <h3><a href="register.php">Hassle-Free Process</a></h3>
                                 <p>Simplify currency exchange with our
                                     user-friendly service.</p>
                             </div>
@@ -967,7 +967,7 @@ Single Blog
                     <div class="row pt-100 pb-75">
                         <div class="col-xl-3 col-lg-5 col-md-5 col-sm-6">
                             <div class="footer-widget">
-                                <a href="index.html" class="footer-logo">
+                                <a href="index.php" class="footer-logo">
                                     <img src="assets/img/logo-white.png"
                                         alt="Image" style="width:150px;">
                                 </a>
@@ -1013,22 +1013,22 @@ Single Blog
                                 <h3 class="footer-widget-title">Quick Links</h3>
                                 <ul class="footer-menu list-style">
                                     <li>
-                                        <a href="index.html" target="_blank">
+                                        <a href="index.php" target="_blank">
                                             Home
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="about.html" target="_blank">
+                                        <a href="about.php" target="_blank">
                                             About Us
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="currency.html" target="_blank">
+                                        <a href="currency.php" target="_blank">
                                             Currency
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact.html" target="_blank">
+                                        <a href="contact.php" target="_blank">
                                             Contact Us
                                         </a>
                                     </li>

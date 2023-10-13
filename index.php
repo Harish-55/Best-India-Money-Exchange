@@ -67,7 +67,7 @@
                 <div class="container">
                     
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="index.php">
                             <img class="logo-light"
                                 src="assets/img/logo.png" alt="logo"
                                 style="width: 200px;">
@@ -83,16 +83,16 @@
                             </div>
                             <ul class="navbar-nav ms-auto">
                                 <li class="nav-item">
-                                    <a href="index.html" class="nav-link">Home</a>
+                                    <a href="index.php" class="nav-link">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="about.html" class="nav-link">About</a>
+                                    <a href="about.php" class="nav-link">About</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="currency.html" class="nav-link">Currency</a>
+                                    <a href="currency.php" class="nav-link">Currency</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact.html" class="nav-link">Contact
+                                    <a href="contact.php" class="nav-link">Contact
                                         Us</a>
                                 </li>
                             </ul>
@@ -139,7 +139,7 @@
                                 Competitive rates, expert service.</p>
                             <div class="hero-btn" data-aos="fade-up"
                                 data-aos-duration="1000" data-aos-delay="500">
-                                <a href="contact.html" class="btn style1">Contact
+                                <a href="contact.php" class="btn style1">Contact
                                     Us<i class="ri-arrow-right-s-line"></i></a>
                                 <a class="play-video" data-fancybox
                                     href="https://www.youtube.com/watch?v=oDDbVC3Hekc">
@@ -148,7 +148,7 @@
                                     data-aos-duration="1000"
                                     data-aos-delay="600">
                                     <div class="hero-contact-img">
-                                        <a href="contact.html">
+                                        <a href="contact.php">
                                         </a>
                                     </div>
                                 </div>
@@ -231,7 +231,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a href="about.html" class="btn style1">READ
+                                <a href="about.php" class="btn style1">READ
                                     MORE<i class="ri-arrow-right-s-line"></i></a>
                             </div>
                         </div>
@@ -256,7 +256,7 @@
                                 <span>
                                     <i class="flaticon-hand"></i>
                                 </span>
-                                <h3><a href="send-money.html">Competitive Rates</a></h3>
+                                <h3><a href="send-money.php">Competitive Rates</a></h3>
                             </div>
                             <p>Get more value with our favorable exchange rates.</p>
                         </div>
@@ -265,7 +265,7 @@
                                 <span>
                                     <i class="flaticon-pie-chart"></i>
                                 </span>
-                                <h3><a href="chart.html">Security Assurance</a></h3>
+                                <h3><a href="chart.php">Security Assurance</a></h3>
                             </div>
                             <p>Ensuring your funds and transactions are
                                 safeguarded.</p>
@@ -275,7 +275,7 @@
                                 <span>
                                     <i class="flaticon-notification"></i>
                                 </span>
-                                <h3><a href="alerts.html">Expert Guidance</a></h3>
+                                <h3><a href="alerts.php">Expert Guidance</a></h3>
                             </div>
                             <p>Trust our knowledgeable team for financial
                                 advice.</p>
@@ -285,7 +285,7 @@
                                 <span>
                                     <i class="flaticon-user-2"></i>
                                 </span>
-                                <h3><a href="register.html">Hassle-Free Process</a></h3>
+                                <h3><a href="register.php">Hassle-Free Process</a></h3>
                             </div>
                             <p>Simplify currency exchange with our user-friendly
                                 service.</p>
@@ -642,7 +642,7 @@
                 <div class="row pt-100 pb-75">
                     <div class="col-xl-3 col-lg-5 col-md-5 col-sm-6">
                         <div class="footer-widget">
-                            <a href="index.html" class="footer-logo">
+                            <a href="index.php" class="footer-logo">
                                 <img src="assets/img/logo-white.png"
                                     alt="Image" style="width:150px;">
                             </a>
@@ -689,23 +689,23 @@
                             <h3 class="footer-widget-title">Quick Links</h3>
                             <ul class="footer-menu list-style">
                                 <li>
-                                    <a href="index.html" target="_blank">
+                                    <a href="index.php" target="_blank">
                                         Home
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="about.html" target="_blank">
+                                    <a href="about.php" target="_blank">
                                         About Us
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="currency.html"
+                                    <a href="currency.php"
                                         target="_blank">
                                         Currency
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="contact.html"
+                                    <a href="contact.php"
                                         target="_blank">
                                         Contact Us
                                     </a>

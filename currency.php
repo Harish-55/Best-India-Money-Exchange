@@ -68,7 +68,7 @@
                 <div class="header-bottom">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index.html">
+                            <a class="navbar-brand" href="index.php">
                                 <img class="logo-light"
                                     src="assets/img/logo.png" alt="logo"
                                     style="width: 200px;">
@@ -84,16 +84,16 @@
                                 </div>
                                 <ul class="navbar-nav ms-auto">
                                     <li class="nav-item">
-                                        <a href="index.html" class="nav-link">Home</a>
+                                        <a href="index.php" class="nav-link">Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="about.html" class="nav-link">About</a>
+                                        <a href="about.php" class="nav-link">About</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">Currency</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="contact.html" class="nav-link">Contact
+                                        <a href="contact.php" class="nav-link">Contact
                                             Us</a>
                                     </li>
                                     <li>
@@ -124,7 +124,7 @@
                     <div class="breadcrumb-title">
                         <h2>Currency</h2>
                         <ul class="breadcrumb-menu list-style">
-                            <li><a href="index.html">Home </a></li>
+                            <li><a href="index.php">Home </a></li>
                             <li>Currency</li>
                         </ul>
                     </div>
@@ -170,14 +170,14 @@
 
                         <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="currency-card">
-                                <div class="currency-flag"><img
-                                        src="assets/img/flag/1.png" alt="Image"></div>
+                                <div class="currency-flag"><img 
+                                        src="assets/img/flag/21.png" alt="Image"></div>
                                 <div class="currency-info">
-                                    <h3>EUR - Europe</h3>
-                                    <p>Easily change Euros for European travels.</p>
+                                    <h3>NWD - New Zealand</h3>
+                                    <p> Effortless conversion for financial transactions in New Zealand</p>
                                 </div>
                             </div>
-                        </div>
+                        </div>                        
 
                         <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="currency-card">
@@ -365,14 +365,14 @@
                                 </div>
                             </div>
                         </div>
-
+                        
                         <div class="col-xl-4 col-lg-6 col-md-6">
                             <div class="currency-card">
-                                <div class="currency-flag"><img 
-                                        src="assets/img/flag/21.png" alt="Image"></div>
+                                <div class="currency-flag"><img
+                                        src="assets/img/flag/1.png" alt="Image"></div>
                                 <div class="currency-info">
-                                    <h3>NWD - New Zealand</h3>
-                                    <p> Effortless conversion for financial transactions in Newsland</p>
+                                    <h3>EUR - Europe</h3>
+                                    <p>Easily change Euros for European travels.</p>
                                 </div>
                             </div>
                         </div>
@@ -385,7 +385,7 @@
                         <div class="row pt-100 pb-75">
                             <div class="col-xl-3 col-lg-5 col-md-5 col-sm-6">
                                 <div class="footer-widget">
-                                    <a href="index.html" class="footer-logo">
+                                    <a href="index.php" class="footer-logo">
                                         <img src="assets/img/logo-white.png"
                                             alt="Image" style="width:150px;">
                                     </a>
@@ -432,23 +432,23 @@
                                     <h3 class="footer-widget-title">Quick Links</h3>
                                     <ul class="footer-menu list-style">
                                         <li>
-                                            <a href="index.html" target="_blank">
+                                            <a href="index.php" target="_blank">
                                                 Home
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="about.html" target="_blank">
+                                            <a href="about.php" target="_blank">
                                                 About Us
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="currency.html"
+                                            <a href="currency.php"
                                                 target="_blank">
                                                 Currency
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="contact.html"
+                                            <a href="contact.php"
                                                 target="_blank">
                                                 Contact Us
                                             </a>

@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
         <link rel="stylesheet" href="assets/css/dark-theme.css">
-        <title>Cuex - Currency Exchange HTML Template</title>
+        <title>Best India Money Changer Pvt. Ltd. - foreign money changer foreign money exchanger in trichy</title>
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
     </head>
 
@@ -67,7 +67,7 @@
                 <div class="header-bottom">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index.html">
+                            <a class="navbar-brand" href="index.php">
                                 <img class="logo-light"
                                     src="assets/img/logo.png" alt="logo"
                                     style="width: 200px;">
@@ -83,16 +83,16 @@
                                 </div>
                                 <ul class="navbar-nav ms-auto">
                                     <li class="nav-item">
-                                        <a href="index.html" class="nav-link">Home</a>
+                                        <a href="index.php" class="nav-link">Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="about.html" class="nav-link">About</a>
+                                        <a href="about.php" class="nav-link">About</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="currency.html" class="nav-link">Currency</a>
+                                        <a href="currency.php" class="nav-link">Currency</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="contact.html" class="nav-link">Contact
+                                        <a href="contact.php" class="nav-link">Contact
                                             Us</a>
                                     </li>
                                     <li>
@@ -122,7 +122,7 @@
                     <div class="breadcrumb-title">
                         <h2>Contact Us</h2>
                         <ul class="breadcrumb-menu list-style">
-                            <li><a href="index.html">Home </a></li>
+                            <li><a href="index.php">Home </a></li>
                             <li>Contact Us</li>
                         </ul>
                     </div>
@@ -242,10 +242,10 @@
                                                     for="gridCheck">
                                                     I agree to the <a
                                                         class="link style1"
-                                                        href="terms-of-service.html">Terms
+                                                        href="terms-of-service.php">Terms
                                                         &amp; Conditions</a> and
                                                     <a class="link style1"
-                                                        href="privacy-policy.html">Privacy
+                                                        href="privacy-policy.php">Privacy
                                                         Policy</a>
                                                 </label>
                                                 <div
@@ -283,7 +283,7 @@
                 <div class="row pt-100 pb-75">
                     <div class="col-xl-3 col-lg-5 col-md-5 col-sm-6">
                         <div class="footer-widget">
-                            <a href="index.html" class="footer-logo">
+                            <a href="index.php" class="footer-logo">
                                 <img src="assets/img/logo-white.png" alt="Image"
                                     style="width:150px;">
                             </a>
@@ -328,22 +328,22 @@
                             <h3 class="footer-widget-title">Quick Links</h3>
                             <ul class="footer-menu list-style">
                                 <li>
-                                    <a href="index.html" target="_blank">
+                                    <a href="index.php" target="_blank">
                                         Home
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="about.html" target="_blank">
+                                    <a href="about.php" target="_blank">
                                         About Us
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="currency.html" target="_blank">
+                                    <a href="currency.php" target="_blank">
                                         Currency
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="contact.html" target="_blank">
+                                    <a href="contact.php" target="_blank">
                                         Contact Us
                                     </a>
                                 </li>
@@ -436,7 +436,7 @@
 <div class="row pt-100 pb-75">
 <div class="col-xl-3 col-lg-5 col-md-5 col-sm-6">
 <div class="footer-widget">
-<a href="index.html" class="footer-logo">
+<a href="index.php" class="footer-logo">
 <img src="assets/img/logo-white.png" alt="Image">
 </a>
 <p class="comp-desc">
@@ -471,27 +471,27 @@ Lorem ipsum dolor sit amet consc tetur adicing elit. Dolor emque dicta molest en
 <h3 class="footer-widget-title">Company</h3>
 <ul class="footer-menu list-style">
 <li>
-<a href="about.html" target="_blank">
+<a href="about.php" target="_blank">
 About Us
 </a>
 </li>
 <li>
-<a href="blog-left-sidebar.html" target="_blank">
+<a href="blog-left-sidebar.php" target="_blank">
 News &amp; Blog
 </a>
 </li>
 <li>
-<a href="team.html" target="_blank">
+<a href="team.php" target="_blank">
 Our Team
 </a>
 </li>
 <li>
-<a href="converter.html" target="_blank">
+<a href="converter.php" target="_blank">
 Converter
 </a>
 </li>
 <li>
-<a href="alerts.html" target="_blank">
+<a href="alerts.php" target="_blank">
 Exchange Rate
 </a>
 </li>
@@ -503,27 +503,27 @@ Exchange Rate
 <h3 class="footer-widget-title">Resources</h3>
 <ul class="footer-menu list-style">
 <li>
-<a href="contact.html" target="_blank">
+<a href="contact.php" target="_blank">
 Contact Us
 </a>
 </li>
 <li>
-<a href="faq.html" target="_blank">
+<a href="faq.php" target="_blank">
 FAQ's
 </a>
 </li>
 <li>
-<a href="app.html" target="_blank">
+<a href="app.php" target="_blank">
 Download App
 </a>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">
+<a href="privacy-policy.php" target="_blank">
 Privacy Policy
 </a>
 </li>
 <li>
-<a href="terms-of-service.html" target="_blank">
+<a href="terms-of-service.php" target="_blank">
 Terms &amp; Conditions
 </a>
 </li>
@@ -535,27 +535,27 @@ Terms &amp; Conditions
 <h3 class="footer-widget-title">Transfer Money</h3>
 <ul class="footer-menu list-style">
 <li>
-<a href="faq.html" target="_blank">
+<a href="faq.php" target="_blank">
 Register/Login
 </a>
 </li>
 <li>
-<a href="chart.html" target="_blank">
+<a href="chart.php" target="_blank">
 Currency Chart
 </a>
 </li>
 <li>
-<a href="faq.html" target="_blank">
+<a href="faq.php" target="_blank">
 USA Money Transfer
 </a>
 </li>
 <li>
-<a href="faq.html" target="_blank">
+<a href="faq.php" target="_blank">
 USA Money Transfer
 </a>
 </li>
 <li>
-<a href="privacy-policy.html" target="_blank">
+<a href="privacy-policy.php" target="_blank">
 Euro Money Transfer
 </a>
 </li>
