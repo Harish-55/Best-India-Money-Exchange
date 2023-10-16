@@ -366,7 +366,7 @@
                         <div class="counter-card">
                             <div class="counter-text">
                                 <h2 class="counter-num">
-                                    <span class="odometer" data-count="10"></span>
+                                    <span class="odometer" data-count="20"></span>
                                     <span class="target">K+</span>
                                 </h2>
                                 <p>Happy Customer</p>
@@ -414,7 +414,7 @@
                                     <i class="flaticon-planet-earth"></i>
                                 </div>
                                 <div class="feature-info">
-                                    <h3><a href="#">Speed and <br>Security</a></h3>
+                                    <h3><a href="#">Speed and Security</a></h3>
                                     <p>Swift and secure transactions ensure your
                                         funds are delivered promptly and
                                         securely.</p>
@@ -445,7 +445,7 @@
                                 </div>
                                 <div class="feature-info">
                                     <h3><a href="#">Transparency and Trust</a></h3>
-                                    <p>We prioritize transparency, ensuring
+                                    <p>We prioritize transparency, ensuring<br>
                                         every transaction is open and
                                         trustworthy.</p>
                                 </div>

@@ -254,21 +254,21 @@
                         <div class="feature-card style3">
                             <div class="feature-title">
                                 <span>
-                                    <i class="flaticon-hand"></i>
-                                </span>
-                                <h3><a href="send-money.php">Competitive Rates</a></h3>
-                            </div>
-                            <p>Get more value with our favorable exchange rates.</p>
-                        </div>
-                        <div class="feature-card style3">
-                            <div class="feature-title">
-                                <span>
                                     <i class="flaticon-pie-chart"></i>
                                 </span>
                                 <h3><a href="chart.php">Security Assurance</a></h3>
                             </div>
                             <p>Ensuring your funds and transactions are
                                 safeguarded.</p>
+                        </div>
+                        <div class="feature-card style3">
+                            <div class="feature-title">
+                                <span>
+                                    <i class="flaticon-hand"></i>
+                                </span>
+                                <h3><a href="send-money.php">Competitive Rates</a></h3>
+                            </div>
+                            <p>Get more value with our favorable exchange rates.</p>
                         </div>
                         <div class="feature-card style3">
                             <div class="feature-title">
