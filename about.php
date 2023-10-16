@@ -470,11 +470,11 @@
                                 <div class="client-info-wrap">
                                     <div class="client-img">
                                         <img
-                                            src="assets/img/testimonials/client-3.jpg"
+                                            src="assets/img/testimonials/11.jpg"
                                             alt="Image">
                                     </div>
                                     <div class="client-info">
-                                        <h3>Neha S</h3>
+                                        <h3>Happy Customer</h3>
                                     </div>
                                 </div>
                                 <div class="quote-icon">
@@ -491,11 +491,11 @@
                                 <div class="client-info-wrap">
                                     <div class="client-img">
                                         <img
-                                            src="assets/img/testimonials/client-4.jpg"
+                                            src="assets/img/testimonials/11.jpg"
                                             alt="Image">
                                     </div>
                                     <div class="client-info">
-                                        <h3>Rahul M</h3>
+                                        <h3>Happy Customer</h3>
                                     </div>
                                 </div>
                                 <div class="quote-icon">
@@ -512,11 +512,11 @@
                                 <div class="client-info-wrap">
                                     <div class="client-img">
                                         <img
-                                            src="assets/img/testimonials/client-5.jpg"
+                                            src="assets/img/testimonials/11.jpg"
                                             alt="Image">
                                     </div>
                                     <div class="client-info">
-                                        <h3>Preeti G</h3>
+                                        <h3>Happy Customer</h3>
                                     </div>
                                 </div>
                                 <div class="quote-icon">
@@ -533,11 +533,11 @@
                                 <div class="client-info-wrap">
                                     <div class="client-img">
                                         <img
-                                            src="assets/img/testimonials/client-4.jpg"
+                                            src="assets/img/testimonials/11.jpg"
                                             alt="Image">
                                     </div>
                                     <div class="client-info">
-                                        <h3>Sneha D</h3>
+                                        <h3>Happy Customer</h3>
                                     </div>
                                 </div>
                                 <div class="quote-icon">
@@ -553,11 +553,11 @@
                                 <div class="client-info-wrap">
                                     <div class="client-img">
                                         <img
-                                            src="assets/img/testimonials/client-1.jpg"
+                                            src="assets/img/testimonials/11.jpg"
                                             alt="Image">
                                     </div>
                                     <div class="client-info">
-                                        <h3>Anil R</h3>
+                                        <h3>Happy Customer</h3>
                                     </div>
                                 </div>
                                 <div class="quote-icon">
@@ -574,11 +574,11 @@
                                 <div class="client-info-wrap">
                                     <div class="client-img">
                                         <img
-                                            src="assets/img/testimonials/client-2.jpg"
+                                            src="assets/img/testimonials/11.jpg"
                                             alt="Image">
                                     </div>
                                     <div class="client-info">
-                                        <h3>Arjun P</h3>
+                                        <h3>Happy Customer</h3>
                                     </div>
                                 </div>
                                 <div class="quote-icon">
