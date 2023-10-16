@@ -5841,6 +5841,7 @@ article {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .header-wrap .header-top .header-top-left, .header-wrap .header-top .header-top-right, .select-lang .navbar-language .dropdown-toggle, .hero-wrap.style2 .hero-content .hero-contact, .hero-wrap.style2 .hero-content .hero-btn, .hero-wrap.style3 .hero-content .hero-btn, .exchange-table-wrap .exchange-table table thead tr th .inverse, .exchange-table-wrap .exchange-table table tbody tr td .country-flag, .exchange-table-wrap .add-currency, .feature-card.style3 .feature-title, .feature-card.style5 .feature-title, .testimonial-card .client-info-area, .testimonial-card .client-info-area .client-info-wrap, .converter-alert-text, .wp-block-quote {
