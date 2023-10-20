@@ -172,7 +172,7 @@
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="contact-form">
-                                <form class="form-wrap" id="contactForm">
+                                <form class="form-wrap" action="mail.php" method="post" >
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
@@ -225,27 +225,6 @@
                                                     data-error="Please enter your message"></textarea>
                                                 <div
                                                     class="help-block with-errors"></div>
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <div class="form-check checkbox">
-                                                <input name="gridCheck"
-                                                    value="I agree to the terms and privacy policy."
-                                                    class="form-check-input"
-                                                    type="checkbox"
-                                                    id="gridCheck" required>
-                                                <label class="form-check-label"
-                                                    for="gridCheck">
-                                                    I agree to the <a
-                                                        class="link style1"
-                                                        href="terms-of-service.php">Terms
-                                                        &amp; Conditions</a> and
-                                                    <a class="link style1"
-                                                        href="privacy-policy.php">Privacy
-                                                        Policy</a>
-                                                </label>
-                                                <div
-                                                    class="help-block with-errors gridCheck-error"></div>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
