@@ -45,13 +45,11 @@
                                     <ul class="contact-info list-style">
                                         <li>
                                             <i class="ri-phone-fill"></i>
-                                            <a href="phone:98426 53139">98426
-                                                53139</a>
+                                            <a href="tel:+919842653139,+919500868868">98426 53139 | 9500 868 868</a>
                                         </li>
                                         <li>
                                             <i class="ri-mail-open-line"></i>
-                                            <a href="javascript:void(0)"><span
-                                                    class="__cf_email__">mdaneesh868@gmail.com</span></a>
+                                            <a href="mailto:bestindia2006@yahoo.co.in">bestindia2006@yahoo.co.in</a>
                                         </li>
                                         <li>
                                             <i class="ri-map-pin-fill"></i>
@@ -400,30 +398,18 @@
                                         are.
                                     </p>
                                     <ul class="social-profile style1 list-style">
-                                        <li>
-                                            <a target="_blank"
-                                                href="https://facebook.com">
-                                                <i class="ri-facebook-fill"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a target="_blank"
-                                                href="https://twitter.com">
-                                                <i class="ri-twitter-fill"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a target="_blank"
-                                                href="https://instagram.com">
-                                                <i class="ri-instagram-line"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a target="_blank"
-                                                href="https://linkedin.com">
-                                                <i class="ri-linkedin-fill"></i>
-                                            </a>
-                                        </li>
+                                    <li>
+                                        <a target="_blank"
+                                            href="https://www.facebook.com/bestindiamoneychanger?mibextid=ZbWKwL">
+                                            <i class="ri-facebook-fill"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank"
+                                            href="https://www.instagram.com/invites/contact/?i=vx2kjrqo1q0f&utm_content=sp14xu5">
+                                            <i class="ri-instagram-line"></i>
+                                        </a>
+                                    </li>
                                     </ul>
                                 </div>
                             </div>
@@ -461,21 +447,21 @@
                                     <h3 class="footer-widget-title">Currency</h3>
                                     <ul class="footer-menu list-style">
                                         <li>
-                                            <a href="#" target>
-                                                INR
-                                            </a>
+                                                <a href="javascript:void(0)" target>
+                                                    INR
+                                                </a>
                                             <li>
-                                                <a href="#" target>
+                                                <a href="javascript:void(0)" target>
                                                     CAD
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target>
+                                                <a href="javascript:void(0)" target>
                                                     US
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target>
+                                                <a href="javascript:void(0)" target>
                                                     EUR
                                                 </a>
                                             </li>
@@ -498,9 +484,12 @@
                                             <li>
                                                 <i class="ri-phone-fill"></i>
                                                 <h6>Phone</h6>
-                                                <p>98426 53139
+                                                <p>
+                                                    <a href="tel:+919842653139">98426 53139</a>
                                                     <br>
-                                                    0431 270 9313
+                                                    <a href="tel:+919842653061">98426 53061</a>
+                                                    <br>
+                                                    <a href="tel:+919500868868">9500 868 868</a>
                                                 </p>
                                             </li>
                                         </ul>

@@ -45,13 +45,11 @@
                                     <ul class="contact-info list-style">
                                         <li>
                                             <i class="ri-phone-fill"></i>
-                                            <a href="phone:98426 53139">98426
-                                                53139</a>
+                                            <a href="tel:+919842653139,+919500868868">98426 53139 | 9500 868 868</a>
                                         </li>
                                         <li>
                                             <i class="ri-mail-open-line"></i>
-                                            <a href="javascript:void(0)"><span
-                                                    class="__cf_email__">mdaneesh868@gmail.com</span></a>
+                                            <a href="mailto:bestindia2006@yahoo.co.in">bestindia2006@yahoo.co.in</a>
                                         </li>
                                         <li>
                                             <i class="ri-map-pin-fill"></i>
@@ -241,7 +239,7 @@
                                 <div class="feature-icon">
                                     <i class="flaticon-hand"></i>
                                 </div>
-                                <h3><a href="send-money.php">Competitive Rates</a></h3>
+                                <h3><a href="javascript:void(0)">Competitive Rates</a></h3>
                                 <p>Get more value with our favorable exchange
                                     rates.</p>
                             </div>
@@ -251,7 +249,7 @@
                                 <div class="feature-icon">
                                     <i class="flaticon-pie-chart"></i>
                                 </div>
-                                <h3><a href="chart.php">Security Assurance</a></h3>
+                                <h3><a href="javascript:void(0)">Security Assurance</a></h3>
                                 <p>Ensuring your funds and transactions are
                                     safeguarded.</p>
                             </div>
@@ -261,7 +259,7 @@
                                 <div class="feature-icon">
                                     <i class="flaticon-notification"></i>
                                 </div>
-                                <h3><a href="alerts.php">Expert Guidance</a></h3>
+                                <h3><a href="javascript:void(0)">Expert Guidance</a></h3>
                                 <p>Trust our knowledgeable team for financial
                                     advice.</p>
                             </div>
@@ -271,7 +269,7 @@
                                 <div class="feature-icon">
                                     <i class="flaticon-user-3"></i>
                                 </div>
-                                <h3><a href="register.php">Hassle-Free Process</a></h3>
+                                <h3><a href="javascript:void(0)">Hassle-Free Process</a></h3>
                                 <p>Simplify currency exchange with our
                                     user-friendly service.</p>
                             </div>
@@ -321,10 +319,10 @@
                                             <i class="flaticon-tick"></i>
                                         </div>
                                         <div class="feature-text">
-                                            <h3>24/7 Service</h3>
-                                            <p>Get currency assistance anytime,
-                                                day or night, for your
-                                                convenience.</p>
+                                            <h3>Trusted by Thousands!</h3>
+                                            <p>Reliable currency exchange, 
+                                                preferred by thousands for unbeatable 
+                                                rates and service.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -414,7 +412,7 @@
                                     <i class="flaticon-planet-earth"></i>
                                 </div>
                                 <div class="feature-info">
-                                    <h3><a href="#">Speed and Security</a></h3>
+                                    <h3><a href="javascript:void(0)">Speed and Security</a></h3>
                                     <p>Swift and secure transactions ensure your
                                         funds are delivered promptly and
                                         securely.</p>
@@ -429,7 +427,7 @@
                                     <i class="flaticon-money-bag-1"></i>
                                 </div>
                                 <div class="feature-info">
-                                    <h3><a href="#">Global Currency Experts</a></h3>
+                                    <h3><a href="javascript:void(0)">Global Currency Experts</a></h3>
                                     <p>Count on our expertise in global
                                         currencies for international financial
                                         solutions.</p>
@@ -444,7 +442,7 @@
                                     <i class="flaticon-notification"></i>
                                 </div>
                                 <div class="feature-info">
-                                    <h3><a href="#">Transparency and Trust</a></h3>
+                                    <h3><a href="javascript:void(0)">Transparency and Trust</a></h3>
                                     <p>We prioritize transparency, ensuring<br>
                                         every transaction is open and
                                         trustworthy.</p>
@@ -613,30 +611,18 @@
                                     no matter where you are.
                                 </p>
                                 <ul class="social-profile style1 list-style">
-                                    <li>
-                                        <a target="_blank"
-                                            href="https://facebook.com">
-                                            <i class="ri-facebook-fill"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a target="_blank"
-                                            href="https://twitter.com">
-                                            <i class="ri-twitter-fill"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a target="_blank"
-                                            href="https://instagram.com">
-                                            <i class="ri-instagram-line"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a target="_blank"
-                                            href="https://linkedin.com">
-                                            <i class="ri-linkedin-fill"></i>
-                                        </a>
-                                    </li>
+                                <li>
+                                    <a target="_blank"
+                                        href="https://www.facebook.com/bestindiamoneychanger?mibextid=ZbWKwL">
+                                        <i class="ri-facebook-fill"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_blank"
+                                        href="https://www.instagram.com/invites/contact/?i=vx2kjrqo1q0f&utm_content=sp14xu5">
+                                        <i class="ri-instagram-line"></i>
+                                    </a>
+                                </li>
                                 </ul>
                             </div>
                         </div>
@@ -672,21 +658,21 @@
                                 <h3 class="footer-widget-title">Currency</h3>
                                 <ul class="footer-menu list-style">
                                     <li>
-                                        <a href="#" target>
-                                            INR
-                                        </a>
+                                            <a href="javascript:void(0)" target>
+                                                INR
+                                            </a>
                                         <li>
-                                            <a href="#" target>
+                                            <a href="javascript:void(0)" target>
                                                 CAD
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" target>
+                                            <a href="javascript:void(0)" target>
                                                 US
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#" target>
+                                            <a href="javascript:void(0)" target>
                                                 EUR
                                             </a>
                                         </li>
@@ -708,9 +694,12 @@
                                         <li>
                                             <i class="ri-phone-fill"></i>
                                             <h6>Phone</h6>
-                                            <p>98426 53139
+                                            <p>
+                                                <a href="tel:+919842653139">98426 53139</a>
                                                 <br>
-                                                0431 270 9313
+                                                <a href="tel:+919842653061">98426 53061</a>
+                                                <br>
+                                                <a href="tel:+919500868868">9500 868 868</a>
                                             </p>
                                         </li>
                                     </ul>
