@@ -35,34 +35,6 @@
     <div class="page-wrapper">
 
         <header class="header-wrap style2">
-            <!-- <div class="header-top">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-8">
-                            <div class="header-top-left">
-                                <ul class="contact-info list-style">
-                                    <li>
-                                        <i class="ri-phone-fill"></i>
-                                        <a href="phone:98426 53139">98426
-                                            53139</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-mail-open-line"></i>
-                                        <a href="javascript:void(0)"><span
-                                                class="__cf_email__">mdaneesh868@gmail.com</span></a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-map-pin-fill"></i>
-                                        <p>Suriya Complex, Near Holy Cross
-                                            College,
-                                            Trichy.</p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
             <div class="header-bottom">
                 <div class="container">
                     
@@ -99,7 +71,7 @@
                             
                                 <div class="option-item">
                                     <a href="https://api.whatsapp.com/send/?phone=%2B919842653139" target="_blank"
-                                        class="btn style1">CHAT WITH US
+                                        class="btn style1">Chat on Whatsapp
                                         <i class="ri-arrow-right-s-line"></i></a>
                                 </div>
                         </div>
@@ -113,7 +85,6 @@
                 </div>
             </div>
         </header>
-
 
         <section class="hero-wrap style2">
             <div class="container">
@@ -743,13 +714,15 @@
                                     <li>
                                         <i class="ri-phone-fill"></i>
                                         <h6>Phone</h6>
-                                        <p>
-                                            <a href="tel:+919842653139">98426 53139</a>
-                                            <br>
-                                            <a href="tel:+919842653061">98426 53061</a>
-                                            <br>
-                                            <a href="tel:+919500868868">9500 868 868</a>
-                                        </p>
+                                            <li>
+                                                <a href="tel:+919842653139">98426 53139</a>
+                                            </li>
+                                            <li>
+                                                <a href="tel:+919842653061">98426 53061</a>
+                                            </li>
+                                            <li>
+                                                <a href="tel:+919500868868">9500 868 868</a>
+                                            </li>
                                     </li>
                                 </ul>
                             </div>

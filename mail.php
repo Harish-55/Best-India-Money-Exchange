@@ -27,7 +27,7 @@ $mail->Password = 'Sthree@2023';                           // SMTP password
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
-$mail->setFrom('no-reply@bestindiamoneychanger.com', 'Best India Money Changer');
+$mail->setFrom('no-reply@bestindiamoneychanger.com', 'Best India Money Changer Pvt Ltd');
 // $mail->addAddress('admin@sthreeengineers.com');     // Add a recipient
 // $mail->addAddress('ellen@example.com');               // Name is optional
 // $mail->addReplyTo('info@example.com', 'Information');

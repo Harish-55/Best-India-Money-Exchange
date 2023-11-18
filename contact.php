@@ -35,77 +35,50 @@
         </label>
 
         <div class="page-wrapper">
-            <header class="header-wrap style1">
-                <div class="header-top">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-8">
-                                <div class="header-top-left">
-                                    <ul class="contact-info list-style">
-                                        <li>
-                                            <i class="ri-phone-fill"></i>
-                                            <a href="tel:+919842653139,+919500868868">98426 53139 | 9500 868 868</a>
-                                        </li>
-                                        <li>
-                                            <i class="ri-mail-open-line"></i>
-                                            <a href="mailto:bestindia2006@yahoo.co.in">bestindia2006@yahoo.co.in</a>
-                                        </li>
-                                        <li>
-                                            <i class="ri-map-pin-fill"></i>
-                                            <p>Suriya Complex, Near Holy Cross
-                                                College,
-                                                Trichy.</p>
-                                        </li>
-                                    </ul>
-                                </div>
+        <header class="header-wrap style2">
+            <div class="header-bottom">
+                <div class="container">
+                    
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="index.php">
+                            <img class="logo-light"
+                                src="assets/img/logo.png" alt="logo"
+                                style="width: 200px;">
+                            <img class="logo-dark"
+                                src="assets/img/logo-white.png" alt="logo"
+                                style="width: 200px;">
+                        </a>
+                        <div class="collapse navbar-collapse main-menu-wrap"
+                            id="navbarSupportedContent">
+                            <div class="menu-close d-lg-none">
+                                <a href="javascript:void(0)"> <i
+                                        class="ri-close-line"></i></a>
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="header-bottom">
-                    <div class="container">
-                        <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index.php">
-                                <img class="logo-light"
-                                    src="assets/img/logo.png" alt="logo"
-                                    style="width: 200px;">
-                                <img class="logo-dark"
-                                    src="assets/img/logo-white.png" alt="logo"
-                                    style="width: 200px;">
-                            </a>
-                            <div class="collapse navbar-collapse main-menu-wrap"
-                                id="navbarSupportedContent">
-                                <div class="menu-close d-lg-none">
-                                    <a href="javascript:void(0)"> <i
-                                            class="ri-close-line"></i></a>
+                            <ul class="navbar-nav ms-auto">
+                                <li class="nav-item">
+                                    <a href="index.php" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about.php" class="nav-link">About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="currency.php" class="nav-link">Currency</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="contact.php" class="nav-link">Contact
+                                        Us</a>
+                                </li>
+                            </ul>
+                            
+                                <div class="option-item">
+                                    <a href="https://api.whatsapp.com/send/?phone=%2B919842653139" target="_blank"
+                                        class="btn style1">Chat on Whatsapp
+                                        <i class="ri-arrow-right-s-line"></i></a>
                                 </div>
-                                <ul class="navbar-nav ms-auto">
-                                    <li class="nav-item">
-                                        <a href="index.php" class="nav-link">Home</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="about.php" class="nav-link">About</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="currency.php" class="nav-link">Currency</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="contact.php" class="nav-link">Contact
-                                            Us</a>
-                                    </li>
-                                    <li>
-                                        <div class="option-item pt-2">
-                                            <a
-                                                href="https://api.whatsapp.com/send/?phone=%2B919842653139" target="_blank"
-                                                class="btn style1">CHAT WITH US<i
-                                                    class="ri-arrow-right-s-line"></i></a>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                     </nav>
                     <div class="mobile-bar-wrap">
+
                         <div class="mobile-menu d-lg-none">
                             <a href="javascript:void(0)"><i class="ri-menu-line"></i></a>
                         </div>
@@ -165,6 +138,7 @@
                                 <div class="contact-info">
                                     <h3>Email Us</h3>
                                     <a href="mailto:bestindia2006@yahoo.co.in">bestindia2006@yahoo.co.in</a>
+                                    <a href="mailto:info@bestindiamoneychanger.com">info@bestindiamoneychanger.com</a>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +146,7 @@
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="contact-form">
-                                <form class="form-wrap" action="mail.php" method="post" >
+                                <form class="form-wrap" id="contactForm" action="mail.php" method="post" >
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
@@ -354,13 +328,15 @@
                                     <li>
                                         <i class="ri-phone-fill"></i>
                                         <h6>Phone</h6>
-                                        <p>
-                                            <a href="tel:+919842653139">98426 53139</a>
-                                            <br>
-                                            <a href="tel:+919842653061">98426 53061</a>
-                                            <br>
-                                            <a href="tel:+919500868868">9500 868 868</a>
-                                        </p>
+                                        <li>
+                                        <a href="tel:+919842653139">98426 53139</a>
+                                        </li>
+                                        <li>
+                                        <a href="tel:+919842653061">98426 53061</a>
+                                        </li>
+                                        <li>
+                                        <a href="tel:+919500868868">9500 868 868</a>
+                                        </li>
                                     </li>
                                 </ul>
                             </div>
