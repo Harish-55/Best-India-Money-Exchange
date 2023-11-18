@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
         <link rel="stylesheet" href="assets/css/dark-theme.css">
-        <title>Best India Money Changer Pvt. Ltd. - foreign money changer foreign money exchanger in trichy</title>
+        <title>Best India Money Changer Pvt. Ltd. | India's Finest Money Changer</title>
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
     </head>
     <body>

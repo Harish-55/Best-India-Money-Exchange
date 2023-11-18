@@ -16,8 +16,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/dark-theme.css">
-    <title>Best India Money Changer Pvt. Ltd. Service for all your
-        needs</title>
+    <title>Best India Money Changer Pvt. Ltd. | India's Finest Money Changer</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
